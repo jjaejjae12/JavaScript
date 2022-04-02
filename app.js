@@ -6,7 +6,7 @@
 //.remove() 특정선택자를 가진 요소를 제거
 //.add() remove 반대
 //.toggle() 조건문+add,remove
-//localStorage .removeItem .getItem .removeItem
+//localStorage .removeItem .getItem .setItem
 
 const loginForm = document.querySelector("#login-form");
 const loginInput = document.querySelector("#login-form input");
